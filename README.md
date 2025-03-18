@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 CODSOFT Internship - Java Projects  
 
 Ce dépôt contient les projets réalisés dans le cadre de mon stage Java chez CodSoft.  
@@ -18,3 +19,6 @@ Ce dépôt contient les projets réalisés dans le cadre de mon stage Java chez 
 ✅ **Lien GitHub** : [https://github.com/samiraELYAAGOUBI/CODSOFT](https://github.com/samiraELYAAGOUBI/CODSOFT)  
 
 Merci à **@CodSoft** pour cette opportunité ! 🙌  
+=======
+# 🚀 CODSOFT Internship - Java Projects
+>>>>>>> b020431 (Ajout des README.md pour chaque Task)
